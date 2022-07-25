@@ -1,0 +1,9 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\bin\Debug\PetrolBunk.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\bin\Debug\PetrolBunk.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\bin\Debug\PetrolBunk.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\obj\Debug\PetrolBunk.csprojResolveAssemblyReference.cache
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\obj\Debug\PetrolBunk.Form1.resources
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\obj\Debug\PetrolBunk.Properties.Resources.resources
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\obj\Debug\PetrolBunk.csproj.GenerateResource.Cache
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\obj\Debug\PetrolBunk.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\PetrolBunk\PetrolBunk\obj\Debug\PetrolBunk.pdb
